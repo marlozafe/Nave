@@ -5,7 +5,7 @@ import img3 from '../img/img3.jpg'
 const Advertisement = () => {
   return (
     <div>
-        <div className="row justify-content-center gx-5">
+        <div className="row justify-content-center gx-5 gy-2">
             <div className="col-sm">
                 <div className="card">
                      <img src={img1} className="card-img-top" alt="..." style={{height:"200px"}}/>
